@@ -11,28 +11,28 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://dev.to/prayagsahu" target="blank">
+<a href="https://g.dev/Prayagsahu" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
 </a>
-<a href="https://twitter.com/prayags61827961" target="blank">
+<a href="https://x.com/prayags61827961" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/prayag-sahu" target="blank">
+<a href="https://www.linkedin.com/in/prayag-sahu-09935b241/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="https://hashnode.com/@prayag001" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" />
 </a>
-<a href="https://medium.com/@prayagsahu" target="blank">
+<a href="https://medium.com/@prayagsahuji786" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/prayag001" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/prayagsahu01" target="blank">
+<a href="https://www.hackerrank.com/profile/prayagsahu01" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/prayagsahu01" target="blank">
+<a href="https://leetcode.com/prayagsahu01" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
 </p>
